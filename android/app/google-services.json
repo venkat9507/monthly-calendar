@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620718285692",
+    "project_id": "cks-demo",
+    "storage_bucket": "cks-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620718285692:android:af34aaf6e9ae43a74ebaf9",
+        "android_client_info": {
+          "package_name": "com.venkat.calender_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620718285692-7i9h1qb844t8hpquah2vnbb1jj0n2ipn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP_H4QL9eormHXILQ5Iqj5wMQB_iTJl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620718285692-7i9h1qb844t8hpquah2vnbb1jj0n2ipn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
